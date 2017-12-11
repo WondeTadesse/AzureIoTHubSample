@@ -3,3 +3,8 @@
 ################################################################################
 
 /AzureIoTHubDeviceCreatorAndSimulatorSample/bin/Debug
+/AzureIoTHubDeviceCreatorAndSimulatorSample/obj
+/AzureIoTHubDeviceCreatorAndSimulatorSample/obj
+/AzureIoTHubDeviceCreatorAndSimulatorSample/obj/Debug
+/AzureIoTHubMessageReciever/bin/Debug
+/AzureIoTHubMessageReciever/bin/Debug
